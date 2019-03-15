@@ -1,0 +1,4 @@
+com\lg\provider\ProviderApplication.class
+com\lg\provider\mapper\UserMapper.class
+com\lg\provider\controller\HelloWorldController.class
+com\lg\provider\api\impl\UserServiceImpl.class
